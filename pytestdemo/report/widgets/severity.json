@@ -1,0 +1,1 @@
+[{"uid":"8629002da2a695f7","name":"test_02_huawei","time":{"start":1665152690048,"stop":1665152690048,"duration":0},"status":"passed","severity":"normal"},{"uid":"cfc3aa03194234b7","name":"test_01_baidu","time":{"start":1665152690044,"stop":1665152690045,"duration":1},"status":"passed","severity":"normal"}]

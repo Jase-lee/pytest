@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 07 22:24:50 CST 2022","Fri Oct 07 22:24:50 CST 2022","1","testcase","test_baidu","TestMashan","","","test_01_baidu",""
+"passed","Fri Oct 07 22:24:50 CST 2022","Fri Oct 07 22:24:50 CST 2022","0","testcase","test_baidu","TestMashan","","","test_02_huawei",""

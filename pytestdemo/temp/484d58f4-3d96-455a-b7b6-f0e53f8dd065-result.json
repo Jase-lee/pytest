@@ -1,0 +1,44 @@
+{
+  "name": "test_02_huawei",
+  "status": "passed",
+  "start": 1665152690048,
+  "stop": 1665152690048,
+  "uuid": "fad3867a-55cb-4e13-b7f9-df85b31aac7c",
+  "historyId": "58e50e484631f16c364af7806e52219a",
+  "testCaseId": "bf106d78b74c696939bdedcca8c59b4d",
+  "fullName": "testcase.test_baidu.TestMashan#test_02_huawei",
+  "labels": [
+    {
+      "name": "parentSuite",
+      "value": "testcase"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidu"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMashan"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NP4TIMT"
+    },
+    {
+      "name": "thread",
+      "value": "9900-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "testcase.test_baidu"
+    }
+  ]
+}
